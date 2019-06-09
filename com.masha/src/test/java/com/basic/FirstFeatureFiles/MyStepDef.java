@@ -21,6 +21,7 @@ public class MyStepDef {
        // driver=new ChromeDriver();
         driver=new FirefoxDriver();
         driver.get("https://www.facebook.com/");
+        System.out.println("Demo demo");
     }
     
 
